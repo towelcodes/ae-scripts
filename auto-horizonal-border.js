@@ -1,3 +1,5 @@
+/* EXPRESSION : should be applied to the Output Height of a Motion Tile */
+
 /* automatically creates horizontal borders for any clip based on its position
 so you don't have to do it manually */
 // TODO it should use trig to calcualte it properly but i just did the lowest or highest y value instead because i'm lazy
